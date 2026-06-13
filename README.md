@@ -1,6 +1,6 @@
 # 🚀 Groq API Experiments — Assignment
 
-Hi! I'm a QA Automation learner who explored the **Groq API** and experimented with 15 different use cases to understand how Large Language Models (LLMs) behave when you tweak parameters like `temperature`, `top_p`, `max_tokens`, `stop`, and more.
+Hi! I'm a AI QA Automation learner who explored the **Groq API** and experimented with 15 different use cases to understand how Large Language Models (LLMs) behave when you tweak parameters like `temperature`, `top_p`, `max_tokens`, `stop`, and more.
 
 This repository contains my Postman collection and documented observations from each experiment.
 
